@@ -13,3 +13,8 @@ in Beauty we have two classes for container: <br />
 for testing purpose <br />
 check1: color the element red with blue border <br />
 check2:color the element blue with red border  <br />
+
+*3.Add Button classes :*
+for styling the buttons <br />
+btn: apply basic styles for the button <br />
+btn-round-<value > round the corner according to the <value>
