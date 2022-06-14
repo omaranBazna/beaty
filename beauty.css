@@ -1,3 +1,4 @@
+/* add container classes*/
 .container-ver{
     display:flex;
     flex-direction:column;
@@ -15,12 +16,14 @@
     flex-direction:row;
     justify-content:center;
     align-items:center;
+
 }
 .container-hor .row{
     display:flex;
     flex-direction:column;
     justify-content:center;
     align-items:center;
+   
 }
 
 .check1{
@@ -30,4 +33,26 @@
 .check2{
     background-color:blue;
     border:2px solid red;
+}
+/*add button classes*/
+.btn {
+    padding:5px 10px;
+    background-color: rgb(56, 68, 90);
+    border:2px solid rgb(55, 166, 218);
+    color:white;
+}
+.btn-round-1{
+    border-radius:10%;
+}
+.btn-round-2{
+    border-radius:20%;
+}
+.btn-round-3{
+    border-radius:30%;
+}
+.btn-round-4{
+    border-radius:40%;
+}
+.btn-round-5{
+    border-radius:50%;
 }
