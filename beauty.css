@@ -1,0 +1,24 @@
+.container-ver{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.container-hor{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+}
+.container-ver .row {
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+}
+.container-hor .row{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
