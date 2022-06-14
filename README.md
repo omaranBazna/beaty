@@ -10,5 +10,6 @@ in Beauty we have two classes for container:
   class2 : container-hor which has horizantel direction 
 
 _*2.Add check1 & check2 classes:*_
+for testing purpose
 check1: color the element red with blue border
 check2:color the element blue with red border
