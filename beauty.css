@@ -40,6 +40,7 @@
     background-color: rgb(56, 68, 90);
     border:2px solid rgb(55, 166, 218);
     color:white;
+    cursor: pointer;
 }
 /*Button Round class*/
 .btn-round-1{
