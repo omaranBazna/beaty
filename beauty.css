@@ -151,7 +151,7 @@
     height:80px;
     display:flex;
     align-items:center;
-    justify-content: center;
+    justify-content:space-around;
     position:absolute;
     z-index:1000;
     top:0;
