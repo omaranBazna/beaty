@@ -18,3 +18,10 @@ check2:color the element blue with red border  <br />
 for styling the buttons <br />
 btn: apply basic styles for the button <br />
 btn-round-<value > round the corner according to the <value>
+
+*4.Add Background color Classes:*
+  for change the background color: 
+  add bg-<color>
+  list of Available colors: 
+    red-blue-green-yellow-pink-grey-black-white-(light-green)-(light-blue)-(light-red);
+               
