@@ -17,22 +17,28 @@ check2:color the element blue with red border  <br />
 *3.Add Button classes :*
 for styling the buttons <br />
 btn: apply basic styles for the button <br />
-btn-round-<value > round the corner according to the <value>
 
-*4.Add Background color Classes:*
+
+*4.Add Button rounded classes :*
+for making the button corner rounded <br />
+add btn-round-<value> class <br />
+list of available values:[1:5px,2:10px,3:15px,4:20px ,5:25px,6:30px]
+
+
+*5.Add Background color Classes:*
   for change the background color: <br />
   add bg-<color>   <br />
   list of Available colors:  <br />
     red-blue-green-yellow-pink-grey-black-white-(light-green)-(light-blue)-(light-red); <br />
 
-*5.Add text color Classes:*
+*6.Add text color Classes:*
   for change the text color: <br />
   add text-<color>   <br />
   list of Available colors:  <br />
     red-blue-green-yellow-pink-grey-black-white-(light-green)-(light-blue)-(light-red); <br />
 
   
-*5.Add text aligment Classes:*
+*7.Add text aligment Classes:*
   for change the text aligment of any element: <br />
   add text-<aligment>   <br />
   list of Available aligments:  <br />
