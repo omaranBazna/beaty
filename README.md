@@ -20,8 +20,16 @@ btn: apply basic styles for the button <br />
 btn-round-<value > round the corner according to the <value>
 
 *4.Add Background color Classes:*
-  for change the background color: 
-  add bg-<color>
-  list of Available colors: 
-    red-blue-green-yellow-pink-grey-black-white-(light-green)-(light-blue)-(light-red);
-               
+  for change the background color: <br />
+  add bg-<color>   <br />
+  list of Available colors:  <br />
+    red-blue-green-yellow-pink-grey-black-white-(light-green)-(light-blue)-(light-red); <br />
+
+*4.Add text color Classes:*
+  for change the text color: <br />
+  add text-<color>   <br />
+  list of Available colors:  <br />
+    red-blue-green-yellow-pink-grey-black-white-(light-green)-(light-blue)-(light-red); <br />
+  
+  
+          
