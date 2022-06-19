@@ -92,3 +92,38 @@
 .bg-pink{
    background:pink;
 }
+
+/*add text color classes*/ 
+.text-red{
+    background:red;
+}
+.text-blue{
+    background:blue;
+}
+.text-green{
+    background:green;
+}
+.text-yellow{
+    background:yellow;
+}
+.text-light-blue{
+    background:rgb(55, 166, 218);
+}
+.text-light-red{
+    background:rgb(197, 65, 65);
+}
+.text-light-green{
+    background: chartreuse;
+}
+.text-black{
+    background: black;
+}
+.text-white{
+    background:white;
+}
+.text-grey{
+    background:grey;
+}
+.text-pink{
+    background:pink;
+}
