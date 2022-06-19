@@ -43,20 +43,24 @@
 }
 /*Button Round class*/
 .btn-round-1{
-    border-radius:10%;
+    border-radius:5px;
 }
 .btn-round-2{
-    border-radius:20%;
+    border-radius:10px;
 }
 .btn-round-3{
-    border-radius:30%;
+    border-radius:15px;
 }
 .btn-round-4{
-    border-radius:40%;
+    border-radius:20px;
 }
 .btn-round-5{
-    border-radius:50%;
+    border-radius:25px;
 }
+.btn-round-6{
+    border-radius:30px;
+}
+
 
 /*add background color classes*/
 .bg-red{
@@ -137,4 +141,11 @@
 }
 .text-center{
     text-align:center;
+}
+
+/*add navbar class*/
+
+.navbar{
+    width:100vw;
+    height:80px;
 }
