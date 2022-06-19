@@ -25,7 +25,7 @@ btn-round-<value > round the corner according to the <value>
   list of Available colors:  <br />
     red-blue-green-yellow-pink-grey-black-white-(light-green)-(light-blue)-(light-red); <br />
 
-*4.Add text color Classes:*
+*5.Add text color Classes:*
   for change the text color: <br />
   add text-<color>   <br />
   list of Available colors:  <br />
