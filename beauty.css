@@ -41,6 +41,7 @@
     border:2px solid rgb(55, 166, 218);
     color:white;
 }
+/*Button Round class*/
 .btn-round-1{
     border-radius:10%;
 }
@@ -55,4 +56,39 @@
 }
 .btn-round-5{
     border-radius:50%;
+}
+
+/*add background color classes*/
+.bg-red{
+    background:red;
+}
+.bg-blue{
+    background:blue;
+}
+.bg-green{
+    background:green;
+}
+.bg-yellow{
+    background:yellow;
+}
+.bg-light-blue{
+    background:rgb(55, 166, 218);
+}
+.bg-light-red{
+    background:rgb(197, 65, 65);
+}
+.bg-light-green{
+    background: chartreuse;
+}
+.bg-black{
+    background: black;
+}
+.bg-white{
+    background:white;
+}
+.bg-grey{
+    background:grey;
+}
+.bg-pink{
+   background:pink;
 }
