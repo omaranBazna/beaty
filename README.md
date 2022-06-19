@@ -43,6 +43,7 @@ list of available values:[1:5px,2:10px,3:15px,4:20px ,5:25px,6:30px]
   add text-<aligment>   <br />
   list of Available aligments:  <br />
     left-right-center <br />
-  
-  
-          
+
+*8.Add navbar class:*
+ the navbar class help the develop to develop the (navbar) for the page more quickly 
+         
