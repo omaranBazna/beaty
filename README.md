@@ -30,6 +30,13 @@ btn-round-<value > round the corner according to the <value>
   add text-<color>   <br />
   list of Available colors:  <br />
     red-blue-green-yellow-pink-grey-black-white-(light-green)-(light-blue)-(light-red); <br />
+
+  
+*5.Add text aligment Classes:*
+  for change the text aligment of any element: <br />
+  add text-<aligment>   <br />
+  list of Available aligments:  <br />
+    left-right-center <br />
   
   
           
