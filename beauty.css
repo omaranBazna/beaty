@@ -127,3 +127,14 @@
 .text-pink{
     background:pink;
 }
+
+/*text aligment classes*/
+.text-left{
+    text-align: left;
+}
+.text-right{
+    text-align:right;
+}
+.text-center{
+    text-align:center;
+}
